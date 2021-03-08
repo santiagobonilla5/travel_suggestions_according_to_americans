@@ -19,7 +19,8 @@ Codecademy Mixed Messages Project
 
 ## Screenshots
 
-![Example screenshot](./Assets/screenshot.png)
+![Example screenshot](./Assets/ss3.png)
+![Example screenshot](./Assets/ss4.png)
 
 ## Technologies
 
