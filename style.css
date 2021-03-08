@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Variables */
+:root {
+  --alabaster: #f1f0ea;
+  --greenRYB: #3f7d20;
+}
+
+body {
+  background-image: url(./Assets/moroccan-flower-dark/moroccan-flower-dark.png);
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1 {
+  min-width: 100vw;
+  text-align: center;
+  color: var(--alabaster);
+}
+
+.output {
+  color: var(--alabaster);
+}
+
+strong {
+  font-weight: bold;
+  font-style: italic;
+}
